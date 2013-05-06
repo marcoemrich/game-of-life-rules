@@ -11,5 +11,5 @@ Creative Commons Attribution 3.0 Unported, see http://creativecommons.org/licens
 Thanks
 ======
 
- * Martin Close (for the idea)
+ * Martin Klose (for the idea)
  * Peter Zsaldos
