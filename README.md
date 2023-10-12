@@ -12,6 +12,8 @@ This work is licensed under a
 
 [cc-by]: http://creativecommons.org/licenses/by/4.0/
 
+Skull image by http://www.flickr.com/photos/eamonn-ryan
+
 
 Thanks
 ======

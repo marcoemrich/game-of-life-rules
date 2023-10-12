@@ -8,7 +8,7 @@
    version="1.1"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    sodipodi:docname="gol_rules.svg"
-   inkscape:export-filename="/home/memrich/sync/work/projects/private/game-of-life-rules/gol_rules.png"
+   inkscape:export-filename="/home/memrich/Dropbox/Projects/game-of-life-rules/gol_rules.png"
    inkscape:export-xdpi="300.01077"
    inkscape:export-ydpi="300.01077"
    viewBox="0 0 2104.7244 2979.9211"
@@ -24,12 +24,6 @@
      id="title3568">Game of Life Rules</title>
   <defs
      id="defs4">
-    <rect
-       x="11.75014"
-       y="3132.1254"
-       width="487.53942"
-       height="46.457128"
-       id="rect11551" />
     <pattern
        inkscape:collect="always"
        xlink:href="#Strips1_1white"
@@ -376,11 +370,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.56945509"
-     inkscape:cx="878.03237"
-     inkscape:cy="2022.1085"
+     inkscape:zoom="0.35"
+     inkscape:cx="888.57144"
+     inkscape:cy="2187.1429"
      inkscape:document-units="px"
-     inkscape:current-layer="g4067"
+     inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:snap-grids="false"
      showguides="true"
@@ -393,8 +387,7 @@
      inkscape:snap-page="false"
      units="cm"
      width="59.4cm"
-     inkscape:pagecheckerboard="0"
-     inkscape:snap-text-baseline="false">
+     inkscape:pagecheckerboard="0">
     <inkscape:grid
        type="xygrid"
        id="grid2989"
@@ -408,14 +401,14 @@
        spacingy="1" />
     <sodipodi:guide
        orientation="1,0"
-       position="0,636.14231"
+       position="-85.862967,475.78182"
        id="guide11848" />
     <sodipodi:guide
-       position="2099.2789,-0.18694828"
+       position="0,-3.0517578e-05"
        orientation="0,2104.7244"
        id="guide4521" />
     <sodipodi:guide
-       position="2104.9725,0.37195507"
+       position="2013.6992,464.84755"
        orientation="-2979.9211,0"
        id="guide4523" />
     <sodipodi:guide
@@ -423,7 +416,7 @@
        orientation="0,-2104.7244"
        id="guide4525" />
     <sodipodi:guide
-       position="657.27714,570.43519"
+       position="0,2979.9211"
        orientation="2979.9211,0"
        id="guide4527" />
   </sodipodi:namedview>
@@ -437,7 +430,7 @@
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
         <dc:title>Game of Life Rules</dc:title>
         <cc:license
-           rdf:resource="http://artlibre.org/licence/lal" />
+           rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
         <dc:creator>
           <cc:Agent>
             <dc:title>Marco Emrich</dc:title>
@@ -674,7 +667,7 @@
          height="50"
          width="50"
          id="rect2991-6"
-         style="fill-opacity:1;stroke:#ff0000;stroke-width:2.99990077;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-rule:nonzero;fill:#42ff00" />
+         style="fill:#42ff00;fill-opacity:1;stroke:#ff0000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
     <g
        id="g11934"
@@ -1010,67 +1003,55 @@
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300" />
     <g
-       id="g4067"
-       transform="translate(-133.17466,120.36814)">
-      <g
-         transform="translate(-1067.8571,-132.85714)"
-         id="g4629">
-        <flowRoot
-           transform="translate(0,-1927.5592)"
-           style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-           id="flowRoot3949"
-           xml:space="preserve"><flowRegion
-             id="flowRegion3951"
-             style="font-family:sans-serif"><rect
-               y="2826.3496"
-               x="1537.1428"
-               height="145.71428"
-               width="607.85712"
-               id="rect3953" /></flowRegion><flowPara
-             id="flowPara3955"
-             style="font-size:40px;line-height:1.25;font-family:sans-serif"> </flowPara></flowRoot>
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:15px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-           x="1857.0027"
-           y="926.04242"
-           id="text11759"><tspan
-             sodipodi:role="line"
-             x="1857.0027"
-             y="926.04242"
-             style="font-weight:bold;font-size:15px;line-height:1.25;font-family:sans-serif"
-             id="tspan8077">https://github.com/marcoemrich/game-of-life-rules</tspan><tspan
-             sodipodi:role="line"
-             x="1857.0027"
-             y="944.79242"
-             style="font-size:15px;line-height:1.25;font-family:sans-serif"
-             id="tspan35231">License: https://creativecommons.org/licenses/by/4.0/</tspan><tspan
-             sodipodi:role="line"
-             x="1857.0027"
-             y="963.54242"
-             style="font-size:15px;line-height:1.25;font-family:sans-serif"
-             id="tspan35235">Skull image by http://www.flickr.com/photos/eamonn-ryan </tspan></text>
-        <flowRoot
-           transform="translate(0,-1927.5592)"
-           style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-           id="flowRoot3957"
-           xml:space="preserve"><flowRegion
-             id="flowRegion3959"
-             style="font-family:sans-serif"><rect
-               y="2861.3496"
-               x="1592.1428"
-               height="150"
-               width="70.714287"
-               id="rect3961" /></flowRegion><flowPara
-             id="flowPara3963"
-             style="font-size:40px;line-height:1.25;font-family:sans-serif"> </flowPara></flowRoot>
-        <text
-           xml:space="preserve"
-           transform="matrix(0.93750001,0,0,0.93750001,1574.4691,-1803.0832)"
-           id="text11549"
-           style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect11551);fill:#000000;fill-opacity:1;stroke:none" />
-      </g>
+       id="g6582"
+       transform="translate(-69.246566,-5.7868686)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         x="1678.6473"
+         y="1020.2712"
+         id="text11759"><tspan
+           sodipodi:role="line"
+           x="1678.6473"
+           y="1020.2712"
+           style="font-size:15.8328px;line-height:1.25;font-family:sans-serif"
+           id="tspan8077">https://github.com/marcoemrich/game-of-life-rules</tspan></text>
+      <image
+         width="26.704384"
+         height="26.704384"
+         xlink:href="data:image/png;base64,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 "
+         id="image3868"
+         x="1648.5441"
+         y="1002.5511" />
     </g>
+    <flowRoot
+       transform="translate(54.2571,-2065.2215)"
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot3949"
+       xml:space="preserve"><flowRegion
+         id="flowRegion3951"
+         style="font-family:sans-serif"><rect
+           y="2826.3496"
+           x="1537.1428"
+           height="145.71428"
+           width="607.85712"
+           id="rect3953" /></flowRegion><flowPara
+         id="flowPara3955"
+         style="font-size:40px;line-height:1.25;font-family:sans-serif"> </flowPara></flowRoot>
+    <flowRoot
+       transform="translate(54.2571,-2065.2215)"
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot3957"
+       xml:space="preserve"><flowRegion
+         id="flowRegion3959"
+         style="font-family:sans-serif"><rect
+           y="2861.3496"
+           x="1592.1428"
+           height="150"
+           width="70.714287"
+           id="rect3961" /></flowRegion><flowPara
+         id="flowPara3963"
+         style="font-size:40px;line-height:1.25;font-family:sans-serif"> </flowPara></flowRoot>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
@@ -1113,24 +1094,5 @@
          x="1305.1959"
          y="-1422.4753"
          style="font-size:56px;line-height:1.25;font-family:sans-serif">Generation X+1</tspan></text>
-    <g
-       id="g4499"
-       transform="matrix(0.6310186,0,0,0.6310186,-219.28005,551.31248)">
-      <g
-         transform="translate(34.239328,-86.567967)"
-         id="g8083">
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:23.7711px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-           x="390.71988"
-           y="833.86719"
-           id="text11733"><tspan
-             sodipodi:role="line"
-             x="390.71988"
-             y="833.86719"
-             style="font-size:23.7711px;line-height:1.25;font-family:sans-serif"
-             id="tspan11743" /></text>
-      </g>
-    </g>
   </g>
 </svg>
